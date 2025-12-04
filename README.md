@@ -50,7 +50,3 @@ My collection of C programs for my B.Tech CSE course.
 #### 12. Sum of 1D Array (Dynamic Memory)
 * **File:** `the sum of 1D malloc().cpp`
 * **Description:** Calculates the sum of array elements using `malloc()` for dynamic memory allocation.
-
-Scroll down, type Update README with new programs in the message box, and tap the green "Commit changes" button.
-
-You are doing great! Your repository is gr
